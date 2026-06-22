@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+/* GLOBAL RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* SMOOTH SCROLL */
+html {
+  scroll-behavior: smooth;
+}
+
+/* BODY */
+body {
+  font-family: system-ui, sans-serif;
+  background: #ffffff;
+  color: #0f172a;
+  overflow-x: hidden;
+}
+
+/* ROOT */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* IMAGES */
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/* LINKS */
+a {
+  text-decoration: none;
+}
+
+/* BUTTONS */
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
