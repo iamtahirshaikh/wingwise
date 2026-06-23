@@ -12,8 +12,8 @@
  * 5. Copy the web app URL into .env as VITE_GOOGLE_SHEETS_WEB_APP_URL
  */
 
-const SHEET_ID = '1aUhg-zehHkykx4e6BSuowrXjHZuUOK1HL1ULBx1J230'
-const SHEET_NAME = 'Sheet1'
+const SHEET_ID = '1C_lofIzzMfmY6_VJouDkjVP-Fw0pTXpkeHKrzviarKo'
+const SHEET_NAME = 'Leads'
 
 function doPost(e) {
   try {
