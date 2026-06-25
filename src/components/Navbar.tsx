@@ -37,12 +37,12 @@ function Navbar() {
             Courses
           </a>
 
-          <a
+          {/* <a
             href="#about"
             className="text-sm font-semibold uppercase tracking-wider text-slate-700 transition hover:text-slate-900"
           >
             About
-          </a>
+          </a> */}
 
           <a
             href="#contact"

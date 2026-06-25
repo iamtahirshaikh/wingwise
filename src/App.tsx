@@ -20,7 +20,7 @@ function App() {
       <CPLClasses />
 
       <WhyChooseUs />
-      <About />
+      {/* <About /> */}
 
       <TrainingModules />
 
